@@ -1,3 +1,4 @@
+//Logging out function
 function logout() {
   fetch("/api/users/logout", {
       method: "post",

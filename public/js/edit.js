@@ -1,3 +1,4 @@
+//Editing form
 const postId = document.querySelector('input[name="post-id"]').value;
 
 const editFormHandler = async function(event) {
