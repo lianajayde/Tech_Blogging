@@ -1,0 +1,20 @@
+{
+  "name": "tech_blogging-chl-14",
+  "version": "1.0.0",
+  "description": "## Details Details and What I learned",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lianajayde/Tech_Blogging.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lianajayde/Tech_Blogging/issues"
+  },
+  "homepage": "https://github.com/lianajayde/Tech_Blogging#readme"
+}
