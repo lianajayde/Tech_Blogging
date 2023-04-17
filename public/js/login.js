@@ -1,4 +1,4 @@
-//Signging in form
+//Signing in form
 const loginFormHandler = async function(event) {
     event.preventDefault();
     const usernameEl = document.querySelector("#username-input-login");
