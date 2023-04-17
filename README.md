@@ -5,12 +5,12 @@ The Tech Blog is a blog website where developers can write about tech! When you 
 
 
 ## Technologies Used..<br>
--CSS
--JavaScript
--SQL2
--Express
--Dotenv
--Bcrypt
+-CSS<br>
+-JavaScript<br>
+-SQL2<br>
+-Express<br>
+-Dotenv<br>
+-Bcrypt<br>
 -Handlebars
 <br>
 
