@@ -11,22 +11,22 @@ The Tech Blog is a blog website where developers can write about tech! When you 
 -Express<br>
 -Dotenv<br>
 -Bcrypt<br>
--Handlebars
+-Handlebars<br>
 <br>
 
 ## Installation Instructions
-*In order to run this application on your own computer, you must first install these through your terminal..<br>
--npm i express sequelize mysql2
--npm install --save sequelize
--npm i connect-session-sequelize
--npm i dotenv
--npm i bcrypt
--npm i express-handlebars
--npm i express-session
+*In order to run this application on your own computer, you must first install these through your terminal..*<br>
+-npm i express sequelize mysql2<br>
+-npm install --save sequelize<br>
+-npm i connect-session-sequelize<br>
+-npm i dotenv<br>
+-npm i bcrypt<br>
+-npm i express-handlebars<br>
+-npm i express-session<br>
 <br>
 
 Helpful websites used..<br>
-Lessons from class<br>
+-Lessons and notes from class<br>
 https://www.w3schools.com<br>
 https://devdocs.io/handlebars<br>
 https://handlebarsjs.com/guide<br>
