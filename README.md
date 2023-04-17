@@ -1,7 +1,7 @@
 ## Tech_Blogging
 
 ## Details<br>
-Tech Blogging is a blog website where developers can write about tech! When you first are on the webpage you will need to sign up; Once youb are signed up, then you will need to log in with your username and password. Once signed in, you will see a navigation center with different options such as dashboard, adding a new post and signing off.  
+Tech Blogging is a blog website where developers can write about tech! When you first are on the webpage you will need to sign up; Once you are signed up, then you will need to log in with your username and password. Once signed in, you will see a navigation center with different options such as dashboard, adding a new post and signing off.  
 
 
 ## Technologies Used..<br>
