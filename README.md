@@ -20,7 +20,7 @@ Tech Blogging is a blog website where developers can write about tech! When you 
 -npm install --save sequelize<br>
 -npm i connect-session-sequelize<br>
 -npm i dotenv<br>
--npm i bcrypt<br>
+-npm install bcrypt<br>
 -npm i express-handlebars<br>
 -npm i express-session<br>
 To run application use npm start in terminal and then open your browser and go to localhost:3001
