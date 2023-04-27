@@ -22,8 +22,7 @@ Tech Blogging is a blog website where developers can write about tech! When you 
 -npm i dotenv<br>
 -npm install bcrypt<br>
 -npm i express-handlebars<br>
--npm i express-session<br>
-To run application use npm start in terminal and then open your browser and go to localhost:3001
+-npm i express-session
 <br>
 <br>
 Helpful websites used..<br>
